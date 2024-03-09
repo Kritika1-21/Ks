@@ -11,7 +11,9 @@ class student{
        System.out.println(si);
        
        System.out.println(ci);
-       System.out.println("hello");
+       System.out.println("hello worldfir.java");
+       System.out.println("change");
+
 
    }
 }
